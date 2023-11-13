@@ -1,0 +1,9 @@
+Next Native modules:
+1. next/link <- This helps without full page refresh.
+2. next/image
+3. next/navigation <- showing active url path. 
+
+clsx = conditionally set classname css.
+
+layout
+page
